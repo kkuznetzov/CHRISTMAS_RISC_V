@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CHRISTMAS_RISC_V")(type "KiCad")(uri "${KIPRJMOD}/CHRISTMAS_RISC_V.kicad_sym")(options "")(descr ""))
+)
